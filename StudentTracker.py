@@ -56,7 +56,7 @@ class AcademicProgress():
             print('================================================================================')
             print(f'TOTAL ATTEMPTED CREDITS: {self.total_credits}')
             print()
-            self.main_menu() 
+           
             
             
     def option_two(self):
