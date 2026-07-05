@@ -6,7 +6,7 @@ class Course:
         self.letter_grade = letter_grade
         self.points = points
         
-        #
+        
 class AcademicProgress():
     def __init__(self):
         self.student_dictionary = {'CMPT 101': Course('CMPT101', 'Intro to Computer Science',3,'A',12.0), 'MATH 114': Course('MATH 114', 'Elementary Calculus I', 3, 'B+', 9.9), 'CMPT 103': Course('CMPT103', 'Intro to Data Structures', 3, 'A-', 11.1), 'ENGL 102' : Course('ENGL 102', 'Analysis and Composition', 3, 'C', 6.0)}
